@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Incoming internet call</string>
-    <string name="dummy_button">Accept</string>
+    <string name="accept">Accept</string>
     <string name="dummy_content">Caller ID:\nMad Hyena</string>
+    <string name="dismiss">Dismiss</string>
 
 </resources>
